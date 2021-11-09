@@ -3,7 +3,7 @@ package bsu.comp152.windowwebdata;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class UniDisplayController {
     @FXML
     private Label welcomeText;
 
